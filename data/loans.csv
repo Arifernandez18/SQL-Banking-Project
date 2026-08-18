@@ -1,0 +1,15 @@
+loan_id,customer_id,loan_amount,interest_rate,loan_type,start_date,loan_status
+101,1,12000,6.5,Personal,2025-01-15,Active
+102,2,25000,5.2,Auto,2024-08-10,Active
+103,3,18000,9.8,Personal,2024-05-20,Default
+104,4,35000,4.9,Auto,2025-02-05,Active
+105,5,8000,12.5,Personal,2025-03-01,Active
+106,1,5000,7.1,Personal,2025-06-10,Active
+107,6,42000,4.4,Auto,2024-11-12,Active
+108,7,15000,7.9,Personal,2025-01-22,Active
+109,8,30000,8.6,Business,2024-07-17,Default
+110,9,22000,5.8,Auto,2025-04-09,Active
+111,10,6000,13.2,Personal,2025-05-01,Active
+112,3,9000,11.4,Personal,2025-02-14,Default
+113,7,7000,9.1,Personal,2025-06-21,Active
+114,8,12000,10.2,Business,2025-01-11,Active

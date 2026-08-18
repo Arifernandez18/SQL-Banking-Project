@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,age,annual_income,employment_status,state
+1,Sofia,Martinez,25,65000,Employed,MA
+2,Daniel,Smith,32,92000,Employed,NY
+3,Maria,Lopez,41,45000,Self-Employed,FL
+4,James,Brown,29,78000,Employed,CA
+5,Camila,Rodriguez,23,38000,Part-Time,MA
+6,Ethan,Wilson,36,110000,Employed,TX
+7,Olivia,Davis,27,54000,Employed,NJ
+8,Noah,Garcia,48,72000,Self-Employed,FL
+9,Emma,Johnson,31,88000,Employed,IL
+10,Liam,Taylor,22,32000,Student,MA
